@@ -10,7 +10,7 @@ title: young Mind
 description: Personal Blog
 url: "https://younghoonk17.github.io"
 twitter_username: 
-default_img: /assets/images/mountain_2000x1200.jpg
+default_img: "/assets/images/mountain_2000x1200.jpg"
 
 # Profile settings
 name: Yhk
