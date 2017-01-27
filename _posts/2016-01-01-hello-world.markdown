@@ -5,7 +5,7 @@ date: 2016-01-01
 categories:
   - Projects
 description: 
-image: /assets/images/mountain_2000x1200.jpg
+image: /assets/images/mountain.jpg
 image-sm: https://unsplash.it/500/300?image=999
 ---
 
