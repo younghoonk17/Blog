@@ -14,7 +14,7 @@ default_img: "/assets/images/mountain_2000x1200.jpg"
 
 # Profile settings
 name: Yhk
-profile_img: 
+profile_img: "/assets/images/mountain_2000x1200.jpg"
 profile: 
 social:
   github: 
